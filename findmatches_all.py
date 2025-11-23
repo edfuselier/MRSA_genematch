@@ -5,7 +5,7 @@ Created on Fri Mar  1 13:48:59 2024
 
 @author: efuselier
 
-TThis script identifies gene matches between a selected strain
+This script identifies gene matches between a selected strain
 (`ATCC_43300.gb`, `USA100_N315.gb`, `USA300_FPR3757.gb`, `VRSA1.gb`)
 and all other listed strains, including Staphylococcus aureus subsp.
 aureus NCTC 8325. It produces an output spreadsheet (named
