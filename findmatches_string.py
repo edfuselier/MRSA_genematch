@@ -5,7 +5,7 @@ Created on Fri Mar  1 13:48:59 2024
 
 @author: efuselier
 
-TThe script begins by parsing the STRING database files
+The script begins by parsing the STRING database files
 (`93061.protein.*`) to extract locus tags, protein sequences, gene
 names, and product information for all genes annotated in
 Staphylococcus aureus subsp. aureus NCTC 8325. These data are saved
