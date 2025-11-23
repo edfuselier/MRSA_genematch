@@ -5,7 +5,7 @@ Created on Wed Feb 28 08:34:46 2024
 
 @author: efuselier
 
-This files contains helper functions used in findmatches_string.py and
+This file contains helper functions used in findmatches_string.py and
 findmatches_all.py
 
 """
