@@ -3,7 +3,7 @@ We use Python to identify corresponding genes across multiple MRSA strains and t
 
 The resulting Excel files list, for every gene, its identifier, its matched STRING entry, and the corresponding gene names across databases. The script findmatches_all.py extends this process by generating Excel files that map genes not only to the STRING reference strain but also to all other strains included in our analysis—ATCC_43300, USA100_N315, USA300_FPR3737, and VRSA1. These expanded maps additionally include descriptions of the encoded protein products to support clearer biological interpretation and comparison.
 
-Explanations of each python file is given below. Example output can be found in the outputfiles directory.
+Explanations of each Python file is given below. Example output can be found in the outputfiles directory.
 
 **********************
 findmatches_string.py
